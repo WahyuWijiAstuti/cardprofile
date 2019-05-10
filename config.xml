@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.smkbwg.helloworld" 
+    versionCode = "10"
+    version     = "1.0.0" >
+ 
+  <!-- versionCode is optional and Android only -->
+ 
+  <name>Card App</name>
+ 
+  <description>
+      Ini merupakan Card Application.
+  </description>
+ 
+  <author href="https://smkn1bawang.sch.id" email="wwaayasthoran1106@gmail.com">
+      Wahyu Wiji Astuti
+  </author>
+ 
+</widget>
